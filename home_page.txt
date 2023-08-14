@@ -2,5 +2,7 @@ Welcome to hame page!
 
 Nav: 
 login >
+home >
+Register >
 
 Welcome to Metis!
