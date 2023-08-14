@@ -1,4 +1,4 @@
-Welcome to hame page!
+Welcome to home page!
 
 Nav: 
 login >
@@ -6,3 +6,5 @@ home >
 Register >
 
 Welcome to Metis!
+
+Contact us hello@metis.com
